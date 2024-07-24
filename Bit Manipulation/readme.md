@@ -19,7 +19,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
-| $${29.}$$ |  | $${\color{yellow} Medium}$$ | [Problem29](https://leetcode.com/problems/divide-two-integers/description/) | [Hints](https://leetcode.com/problems/divide-two-integers/solutions/5527128/divide-two-numbers/) | ***Bit,Math*** | ***TCS, Amazon*** |
+| $${29.}$$ | **Divide Two Numbers** | $${\color{yellow} Medium}$$ | [Problem29](https://leetcode.com/problems/divide-two-integers/description/) | [Hints](https://leetcode.com/problems/divide-two-integers/solutions/5527128/divide-two-numbers/) | ***Bit,Math*** | ***TCS, Amazon*** |
 | $${78.}$$ |  | $${\color{yellow} Medium}$$ | [Problem78]() | [Hints]() | ***String*** | ***TCS, Amazon*** |
 | $${78.}$$ |  | $${\color{yellow} Medium}$$ | [Problem78]() | [Hints]() | ***String*** | ***TCS, Amazon*** |
 | $${78.}$$ |  | $${\color{yellow} Medium}$$ | [Problem78]() | [Hints]() | ***String*** | ***TCS, Amazon*** |
